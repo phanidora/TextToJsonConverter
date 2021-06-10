@@ -1,0 +1,12 @@
+Java project that reads the below text and parses it into a Json file. The text file should be equal to the below json data structure:
+{
+  'host': 'test.com',
+  'server_id': 55331,
+  'cost': 2.56,
+  'user': 'user',
+  'verbose': true,
+  'test_mode': true,
+  'debug_mode': false,
+  'log_file_path': '/tmp/logfile.log',
+  'send_notifications': true
+}
