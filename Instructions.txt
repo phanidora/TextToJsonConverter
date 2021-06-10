@@ -1,4 +1,4 @@
-Java project that reads the below text and parses it into a Json file. The text file should be equal to the below json data structure:
+Java project that reads the attached file (data.txt) and parses it into a text file. The text file should be equal to the below json data structure:
 {
   'host': 'test.com',
   'server_id': 55331,
